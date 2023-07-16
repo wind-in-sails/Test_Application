@@ -1,0 +1,42 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name":"Nick",
+      "email":"nick@gmail.com",
+      "contact":{
+        "mobile":"+1 0000000001"
+      }
+    },
+    {
+      "id": 3,
+      "name":"Jane",
+      "email":"jane@gmail.com",
+      "contact":{
+        "mobile":"+1 0000000002"
+      }
+    },
+    {
+      "id": 5,
+      "name":"Jack",
+      "email":"jack@gmail.com",
+      "contact":{
+        "mobile":"+1 0000000003"
+      }
+    },
+    {
+      "id": 4,
+      "name":"Greg",
+      "contact":{
+        "mobile":"+1 0000000004"
+      }
+    },
+    {
+      "id": 8,
+      "email":"mike@gmail.com",
+      "contact":{
+        "mobile":"+1 0000000005"
+      }
+    }
+  ]
+}
